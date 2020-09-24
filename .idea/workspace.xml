@@ -63,7 +63,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android App.app">
+  <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -155,8 +155,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
+        <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
       </list>
     </recent_temporary>
   </component>
@@ -178,21 +178,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="286" y="144" key="#PSD/0.0.1536.824@0.0.1536.824" timestamp="1600947713668" />
-    <state width="1491" height="210" key="GridCell.Tab.0.bottom" timestamp="1600947407599">
+    <state width="1476" height="204" key="GridCell.Tab.0.bottom" timestamp="1600973782913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600947407599" />
-    <state width="1491" height="210" key="GridCell.Tab.0.center" timestamp="1600947407599">
+    <state width="1476" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600973782913" />
+    <state width="1476" height="204" key="GridCell.Tab.0.center" timestamp="1600973782911">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600947407599" />
-    <state width="1491" height="210" key="GridCell.Tab.0.left" timestamp="1600947407599">
+    <state width="1476" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600973782911" />
+    <state width="1476" height="204" key="GridCell.Tab.0.left" timestamp="1600973782911">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600947407599" />
-    <state width="1491" height="210" key="GridCell.Tab.0.right" timestamp="1600947407599">
+    <state width="1476" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600973782911" />
+    <state width="1476" height="204" key="GridCell.Tab.0.right" timestamp="1600973782912">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600947407599" />
+    <state width="1476" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600973782912" />
   </component>
 </project>
