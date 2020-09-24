@@ -22,6 +22,10 @@ import com.google.gson.GsonBuilder;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.TextHttpResponseHandler;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 import cz.msebera.android.httpclient.Header;
 
 
@@ -33,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
 
         SQLiteDatabase db = candyDbHelper.getWritableDatabase();
         Cursor cursor = db.rawQuery("SELECT * FROM candy", null);
